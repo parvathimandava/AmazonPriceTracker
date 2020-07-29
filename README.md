@@ -1,4 +1,12 @@
 # AmazonPriceTracker
-Get the link of the amazon website with the items
-Get the link of the items and extract the info of the item
-Generate the report of the items based on the info
+Get Link to Website with Items
+Get Items Links
+Extract Info about Items
+Generate Report Based on Info
+Initial Setup Instructions
+Make sure to download correct chromedriver - https://chromedriver.chromium.org/downloads
+
+Setup Python Virtual Environment
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
