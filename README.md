@@ -1,4 +1,5 @@
 # AmazonPriceTracker
+Here we do the web scraping using python and selenium to get the best price of the item we want to purchase
 Get Link to Website with Items
 Get Items Links
 Extract Info about Items
